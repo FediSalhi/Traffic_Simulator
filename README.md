@@ -28,4 +28,5 @@ Follow this [tutorial](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install
 3. Compile: `cmake .. && make`
 4. Run it: `./traffic_simulation`.
 
-
+## Authors
+* **Fedi Salhi** [FediSalhi](https://www.linkedin.com/in/fedisalhi/)
